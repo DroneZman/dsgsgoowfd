@@ -22,7 +22,7 @@ def context_off(update: Update, context: CallbackContext) -> None:
 
 def main() -> None:
     """Start the bot."""
-    updater = Updater("5438377499:AAGzLW41KvxJ0-XQvMhRw5MZY7iyIU2bFFI", use_context=True)
+    updater = Updater("5438377499:AAFI1IWWSre8SdmCgKVQgtYvAqDf46RuIjw", use_context=True)
 
     dispatcher = updater.dispatcher
 

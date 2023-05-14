@@ -1,7 +1,7 @@
 import openai
 from context_manager import get_context, update_context
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 
 def generate_response(user_data: dict, question: str) -> str:
